@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="tvAmt">Amount:</string>
+    <string name="tvPax">Number of Pax:</string>
+    <string name="yServiceCharge">Service Charge?</string>
+    <string name="nServiceCharge">No Service Charge?</string>
+    <string name="yGST">GST?</string>
+    <string name="nGST">No GST?</string>
+    <string name="tvTotal">Total Bill:</string>
+    <string name="btnSplit">SplitBill?</string>
+    <string name="btnReset">Reset</string>
+    <string name="tvDiscount">Discount</string>
+</resources>
